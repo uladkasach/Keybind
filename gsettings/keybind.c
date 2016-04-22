@@ -191,12 +191,12 @@ cmd3 = 'gsettings set '+subkey1+new+" binding '"+sys.argv[3]+"'"
     printf("\n%s\n", cmd2);
     printf("\n%s\n", cmd3);
     
-    /*
+    
     runThisCommand(cmd0);
     runThisCommand(cmd1);
     runThisCommand(cmd2);
     runThisCommand(cmd3);
-    */
+    
 }
 
 void runThisCommand(char* command){
