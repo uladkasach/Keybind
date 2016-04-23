@@ -8,7 +8,7 @@ Note: For Ubuntu 12 and below, see the answer linked above (feel free to add you
 ./binary '<name>' '<command>' '<binding>'
 
 For example
-compile the binary : `gcc -o keybinder keybind.c`
+compile the binary : `gcc -o keybind keybind.c`
 
 use it : `./keybind 'test' 'gedit' '<Control><Alt>7'`
 ------------

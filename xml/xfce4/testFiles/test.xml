@@ -58,6 +58,7 @@
       <property name="&lt;Super&gt;r" type="string" value="xfce4-appfinder"/>
       <property name="override" type="bool" value="true"/>
       <property name="&lt;Primary&gt;&lt;Alt&gt;l" type="string" value="xflock4"/>
+      <property name="&lt;Control&gt;&lt;Alt&gt;Down" type="string" value="gedit"/>
     </property>
   </property>
   <property name="xfwm4" type="empty">

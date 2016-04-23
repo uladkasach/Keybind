@@ -1,5 +1,15 @@
 This is a C implementation for keybinding custom commands in XFCE4, Xubuntu systems.
 
+
+##Usage 
+------------
+./binary '<command>' '<binding>'
+
+For example
+compile the binary : `gcc -o keybind keybind.c`
+
+use it : `./keybind 'gedit' '<Control><Alt>7'`
+
 ------------
 
 Where keybinding shortcuts are stored in XFCE4: `$ gedit ~/.config/xfce4/xfconf/xfce-perchannel-xml/xfce4-keyboard-shortcuts.xml`
