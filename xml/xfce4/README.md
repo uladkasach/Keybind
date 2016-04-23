@@ -3,12 +3,12 @@ This is a C implementation for keybinding custom commands in XFCE4, Xubuntu syst
 
 ##Usage 
 ------------
-./binary '<command>' '<binding>'
+`./binary '<command>' '<binding>'`
 
 For example
-compile the binary : `gcc -o keybind keybind.c`
+compile the binary :<br /> `gcc -o keybind keybind.c`
 
-use it : `./keybind 'gedit' '<Control><Alt>7'`
+use it :<br /> `./keybind 'gedit' '<Control><Alt>7'`
 
 ------------
 
