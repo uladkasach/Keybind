@@ -7,7 +7,7 @@ Usage outlined in individual implementations:
 Please use gsettings implementation for Ubuntu 13 and above. 
 Implementation based on : http://askubuntu.com/a/597414/357970
 
-Please use xml/XFC4 implementation for Xubuntu XFC4 systems. (Tested with 14.04)
+Please use xml/XFC4 implementation for Xubuntu XFC4 systems. (Tested with 14.04 and 16.06)
 
 ##Example Usage
 -----------
