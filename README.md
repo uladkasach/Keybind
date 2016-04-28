@@ -11,6 +11,12 @@ Please use xml/XFC4 implementation for Xubuntu XFC4 systems. (Tested with 14.04)
 
 ##Example Usage
 -----------
+`./keybind "<Control><Alt>Delete" "gnome-system-monitor"`
+
+`./keybind "<Control><Alt>Up" "xrandr -o inverted"`<br/>
+`./keybind "<Control><Alt>Down" "xrandr -o normal"`<br/>
+`./keybind "<Control><Alt>Right" "xrandr -o left"`<br/>
+`./keybind "<Control><Alt>Left" "xrandr -o right"`<br/>
 
 
 ##Example Bindings
